@@ -1,0 +1,11 @@
+F:\3 курс\2 семестр\практика\Информац технологии\лаба 1\calc\bin\Debug\calc.exe.config
+E:\3 курс\2 семестр\практика\Информац технологии\лаба 1\calc\bin\Debug\calc.exe.config
+E:\3 курс\2 семестр\практика\Информац технологии\лаба 1\calc\bin\Debug\calc.exe
+E:\3 курс\2 семестр\практика\Информац технологии\лаба 1\calc\bin\Debug\calc.pdb
+E:\3 курс\2 семестр\практика\Информац технологии\лаба 1\calc\obj\Debug\calc.csprojResolveAssemblyReference.cache
+E:\3 курс\2 семестр\практика\Информац технологии\лаба 1\calc\obj\Debug\calc.Form1.resources
+E:\3 курс\2 семестр\практика\Информац технологии\лаба 1\calc\obj\Debug\calc.Properties.Resources.resources
+E:\3 курс\2 семестр\практика\Информац технологии\лаба 1\calc\obj\Debug\calc.csproj.GenerateResource.Cache
+E:\3 курс\2 семестр\практика\Информац технологии\лаба 1\calc\obj\Debug\calc.csproj.CoreCompileInputs.cache
+E:\3 курс\2 семестр\практика\Информац технологии\лаба 1\calc\obj\Debug\calc.exe
+E:\3 курс\2 семестр\практика\Информац технологии\лаба 1\calc\obj\Debug\calc.pdb
