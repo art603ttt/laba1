@@ -13,11 +13,11 @@ namespace calc
     interface IOutputed
     {
         /// <summary>
-        /// Метод ShowValue вывод значение аргумента в Textbox
+        /// Метод ShowValue возращает результат вычисления
         /// </summary>
-        /// <param name="tb_out"></param>
         /// <param name="arg"></param>
-        void ShowValue(TextBox tb_out,double arg);
+        /// <returns></returns>
+        string ShowValue(double arg);
 
     }
 }

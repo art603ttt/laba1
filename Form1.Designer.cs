@@ -60,6 +60,7 @@
             this.button_show_rez = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // button_num1
@@ -304,8 +305,9 @@
             // 
             // textBox_first_arg
             // 
-            this.textBox_first_arg.Location = new System.Drawing.Point(475, 69);
+            this.textBox_first_arg.Location = new System.Drawing.Point(475, 50);
             this.textBox_first_arg.Name = "textBox_first_arg";
+            this.textBox_first_arg.ReadOnly = true;
             this.textBox_first_arg.Size = new System.Drawing.Size(148, 22);
             this.textBox_first_arg.TabIndex = 26;
             // 
@@ -313,6 +315,7 @@
             // 
             this.textBox_lastarg_or_answer.Location = new System.Drawing.Point(475, 97);
             this.textBox_lastarg_or_answer.Name = "textBox_lastarg_or_answer";
+            this.textBox_lastarg_or_answer.ReadOnly = true;
             this.textBox_lastarg_or_answer.Size = new System.Drawing.Size(148, 22);
             this.textBox_lastarg_or_answer.TabIndex = 27;
             // 
@@ -371,17 +374,27 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(97, 72);
+            this.label2.Location = new System.Drawing.Point(96, 50);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(373, 17);
             this.label2.TabIndex = 33;
             this.label2.Text = "/*Предыдущее введенное число или предыд результат";
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(560, 77);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(253, 17);
+            this.label3.TabIndex = 34;
+            this.label3.Text = "label3-Сиимвол операции(если надо)";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(645, 455);
+            this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.button_show_rez);
@@ -455,6 +468,7 @@
         private System.Windows.Forms.Button button_show_rez;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Label label3;
     }
 }
 
