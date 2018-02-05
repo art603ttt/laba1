@@ -9,3 +9,13 @@ E:\3 курс\2 семестр\практика\Информац техноло�
 E:\3 курс\2 семестр\практика\Информац технологии\лаба 1\calc\obj\Debug\calc.csproj.CoreCompileInputs.cache
 E:\3 курс\2 семестр\практика\Информац технологии\лаба 1\calc\obj\Debug\calc.exe
 E:\3 курс\2 семестр\практика\Информац технологии\лаба 1\calc\obj\Debug\calc.pdb
+d:\проект команда\laba1\bin\Debug\calc.exe.config
+d:\проект команда\laba1\bin\Debug\calc.exe
+d:\проект команда\laba1\bin\Debug\calc.pdb
+d:\проект команда\laba1\obj\Debug\calc.csprojResolveAssemblyReference.cache
+d:\проект команда\laba1\obj\Debug\calc.Form1.resources
+d:\проект команда\laba1\obj\Debug\calc.Properties.Resources.resources
+d:\проект команда\laba1\obj\Debug\calc.csproj.GenerateResource.Cache
+d:\проект команда\laba1\obj\Debug\calc.csproj.CoreCompileInputs.cache
+d:\проект команда\laba1\obj\Debug\calc.exe
+d:\проект команда\laba1\obj\Debug\calc.pdb

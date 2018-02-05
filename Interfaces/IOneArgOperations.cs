@@ -10,7 +10,12 @@ namespace calc
     /// Интерфейс IOneArgOperations поддерживает набор математических операций с одним аргументом
     /// </summary>
     interface IOneArgOperations
-    {
+    {   /// <summary>
+        /// Метод factorial находит факториал аргумента
+        /// </summary>
+        /// <param name="arg"></param>
+        /// <returns></returns>
+        double Factorial(double arg);
         /// <summary>
         /// Метод Sqrt вычисляет корень из числа
         /// </summary>

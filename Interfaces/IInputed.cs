@@ -10,6 +10,8 @@ namespace calc
  /// </summary>
     interface IInputed
     {
+        double Arg1 { get;  set; }
+        double Arg2 { get; set; }
         void SetValue(double arg1, double arg2);//для операций с 2 аргументами
 
         void SetValue(double arg);//для операций с 1 аргументом
