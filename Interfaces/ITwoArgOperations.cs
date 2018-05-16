@@ -8,7 +8,7 @@ namespace calc
 {/// <summary>
  /// Интерфейс ITwoArgOperations поддерживает набор математических операций с двумя аргументами
  /// </summary>
-    interface ITwoArgOperations
+    public interface ITwoArgOperations
     {
        
         /// <summary>

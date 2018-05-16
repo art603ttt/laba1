@@ -9,7 +9,7 @@ namespace calc
     /// <summary>
     /// Интерфейс IOneArgOperations поддерживает набор математических операций с одним аргументом
     /// </summary>
-    interface IOneArgOperations
+   public  interface IOneArgOperations
     {   /// <summary>
         /// Метод factorial находит факториал аргумента
         /// </summary>
